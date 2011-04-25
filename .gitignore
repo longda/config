@@ -1,0 +1,10 @@
+_UpgradeReport_Files/
+logs/
+PrecompiledWeb/
+UpgradeLog.XML
+UpgradeLog2.XML
+*.suo
+*.user
+*/bin/
+*/obj/
+/DaveCanCodeWebsite/CacheOutFile.txt
